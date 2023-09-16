@@ -13,28 +13,28 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Pavia",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-09-16T17:27:12.090Z",
+      "notes": "new",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "45.18590859850547",
+        "lng": "9.154357910156252"
       },
-      "id": 17806751
+      "id": 73930386
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Neftenbach / Dorf Neftenbach",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2023-09-16T17:32:53.445Z",
+      "notes": "test",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "47.53203824675999",
+        "lng": "8.635253906250002"
       },
-      "id": 98443197
+      "id": 73930387
     }
   ]
 }
