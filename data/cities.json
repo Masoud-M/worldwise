@@ -35,6 +35,90 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Herrera de los Navarros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-16T15:53:08.666Z",
+      "notes": "test",
+      "position": {
+        "lat": "41.22824901518532",
+        "lng": "-0.9887695312500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Lugo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-16T16:08:07.596Z",
+      "notes": "jkvfg",
+      "position": {
+        "lat": "43.004647127794435",
+        "lng": "-7.536621093750001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Lugo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-16T16:08:07.596Z",
+      "notes": "jkvfg",
+      "position": {
+        "lat": "43.004647127794435",
+        "lng": "-7.536621093750001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Torre de Moncorvo",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-16T16:08:07.596Z",
+      "notes": "jkvfg",
+      "position": {
+        "lat": "41.178653972331674",
+        "lng": "-7.141113281250001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Penamacor",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-16T16:08:07.596Z",
+      "notes": "jkvfg",
+      "position": {
+        "lat": "40.111688665595956",
+        "lng": "-7.163085937500001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Pedrogao Grande",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-16T16:11:19.085Z",
+      "notes": "",
+      "position": {
+        "lat": "39.926588421909436",
+        "lng": "-8.151855468750002"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Sober",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-16T16:16:50.677Z",
+      "notes": "",
+      "position": {
+        "lat": "42.47209690919285",
+        "lng": "-7.602539062500001"
+      },
+      "id": 98443204
     }
   ]
 }
